@@ -11,7 +11,7 @@ The task is defined below:
 
 ## Installation Instructions
 
-- `git clone https://github.com/niral21/mini-aspire-loan-app.git`
+- `git clone https://github.com/niral21/aspire-loan-app.git`
 - `composer update`
 - rename the `.env.example` file as `.env`
 - set 
