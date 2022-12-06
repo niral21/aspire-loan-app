@@ -30,3 +30,5 @@ Yup that's it you are ready to test postman collection
 
 postman collection link : https://drive.google.com/file/d/1BqYgMi3UYCKpouZZBmd6Egoegqu5A0yd/view?usp=sharing
 
+Admin Login : admin@mail.com / 123456
+
