@@ -33,6 +33,6 @@ postman collection link : https://drive.google.com/file/d/1BqYgMi3UYCKpouZZBmd6E
 Admin Login : admin@mail.com / 123456
 
 Run All Tests : 
-php artisan config:clear
-php artisan test
+- php artisan config:clear
+- php artisan test
 
